@@ -28,19 +28,19 @@
 
 ## Навигация по темам
 
-1. [Компиляция и запуск](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/01sem-asm#%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA)
-2. [Регистры, иструкции, флаги, переходы](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/01sem-asm#%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B)
-3. [Гдб](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/02sem-asm#gdb)
-4. [Битовые сдвиги](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/02sem-asm#%D1%81%D0%B4%D0%B2%D0%B8%D0%B3%D0%B8)
-5. [Оптимизация умножения с помощью инструкции lea](https://github.com/lll-phill-lll/hse_caos_practice/blob/master/2022_216/03sem-asm/README.md#lea-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8)
-6. [Cdecl](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/04sem-asm#%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2%D1%8B%D1%85-cdecl32-%D0%B1%D0%B8%D1%82%D0%B0)
-7. [asm + C/C++](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/04sem-asm#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-c-%D0%B8-c-%D0%BA%D0%BE%D0%B4%D0%BE%D0%BC)
-8. [ulimit](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/07sem-c#ulimit)
-9. [Заставляем стек переполниться](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/07sem-c#%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B5%D0%BA%D0%B0)
-10. [valgrind](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/07sem-c#valgrind)
-11. [Как работает malloc внутри](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/07sem-c#%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-malloccalloc)
-12. [Переводим руками вещественные числа во float](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/08sem-c#%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%87%D0%B8%D1%81%D0%B5%D0%BB-%D0%B2-float-%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%B4%D1%80%D0%BE%D0%B1%D1%8C)
-13. [Права доступа к файлам и директориям](https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/12sem-fs#%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BA-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC-%D0%B8-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC)
+1. [Компиляция и запуск](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/01sem-asm#%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA)
+2. [Регистры, иструкции, флаги, переходы](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/01sem-asm#%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B)
+3. [Гдб](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/02sem-asm#gdb)
+4. [Битовые сдвиги](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/02sem-asm#%D1%81%D0%B4%D0%B2%D0%B8%D0%B3%D0%B8)
+5. [Оптимизация умножения с помощью инструкции lea](https://github.com/lll-phill-lll/hse_caos/blob/master/2022_216/03sem-asm/README.md#lea-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8)
+6. [Cdecl](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/04sem-asm#%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2%D1%8B%D1%85-cdecl32-%D0%B1%D0%B8%D1%82%D0%B0)
+7. [asm + C/C++](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/04sem-asm#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-c-%D0%B8-c-%D0%BA%D0%BE%D0%B4%D0%BE%D0%BC)
+8. [ulimit](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/07sem-c#ulimit)
+9. [Заставляем стек переполниться](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/07sem-c#%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B5%D0%BA%D0%B0)
+10. [valgrind](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/07sem-c#valgrind)
+11. [Как работает malloc внутри](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/07sem-c#%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-malloccalloc)
+12. [Переводим руками вещественные числа во float](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/08sem-c#%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%87%D0%B8%D1%81%D0%B5%D0%BB-%D0%B2-float-%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%B4%D1%80%D0%BE%D0%B1%D1%8C)
+13. [Права доступа к файлам и директориям](https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/12sem-fs#%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BA-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC-%D0%B8-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC)
 
 ## Обратная связь
 

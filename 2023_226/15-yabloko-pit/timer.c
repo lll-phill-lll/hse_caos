@@ -63,7 +63,7 @@ void init_timer() {
     // см пример из: https://en.cppreference.com/w/c/string/byte/memcpy
     // подробнее про strict aliasing: https://habr.com/ru/company/otus/blog/443602/
     //
-    // Лучше делать так: https://github.com/lll-phill-lll/hse_caos_practice/tree/master/2022_216/08sem-c#bit-fields-hack
+    // Лучше делать так: https://github.com/lll-phill-lll/hse_caos/tree/master/2022_216/08sem-c#bit-fields-hack
 	port_byte_out(0x43, *(unsigned char*)&mode);
 
 	port_byte_out(0x40, refresh & 0x00FF);
