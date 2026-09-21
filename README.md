@@ -14,6 +14,7 @@ vk - ссылка на запись вк
 ## АКОС 1
 1. [[к](01-intro)][[yt](https://youtu.be/rBstIXaXhfI)][[vk](https://vkvideo.ru/video-221776054_456239062)] - Введение.
 2. [[к](02-c)][[yt](https://youtu.be/vsnVS0BgBvs)][[vk](https://vkvideo.ru/video-221776054_456239063)] - Си.
+3. [[к](03-dynamic)][[yt](https://youtu.be/5rxnzFkU8Nw)][[vk](https://vkvideo.ru/video-221776054_456239064)] - Динамическая память.
 
 ## Полезные ссылки
 
