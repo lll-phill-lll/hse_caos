@@ -4,6 +4,12 @@
 
 [Слайды](caos4.pdf)
 
+### Код с пары
+
+- Меняем руками бинарь [minmax.c](minmax.c), [loader.c](loader.c)
+- Чтение запись с simpleio_x86_64 [read_write.S](read_write.S), [simpleio_x86_64.S](simpleio_x86_64.S)
+- Флаги [flags.S](flags.S)
+
 ## Компиляция и запуск:
 
 ### Компиляция:
