@@ -15,6 +15,8 @@ vk - ссылка на запись вк
 1. [[к](01-intro)][[yt](https://youtu.be/rBstIXaXhfI)][[vk](https://vkvideo.ru/video-221776054_456239062)] - Введение.
 2. [[к](02-c)][[yt](https://youtu.be/vsnVS0BgBvs)][[vk](https://vkvideo.ru/video-221776054_456239063)] - Си.
 3. [[к](03-dynamic)][[yt](https://youtu.be/5rxnzFkU8Nw)][[vk](https://vkvideo.ru/video-221776054_456239064)] - Динамическая память.
+4. [[к](04-asm-intro)][[yt](https://youtu.be/QPrc9TjYsMM)][[vk](https://vkvideo.ru/video-221776054_456239066)] - Язык ассемблера.
+4. [[к](05-callconv)][[yt](https://youtu.be/aL7iYatoUb8)][[vk](https://vkvideo.ru/video-221776054_456239067)] - Стек и соглашение о вызовах.
 
 ## Полезные ссылки
 
