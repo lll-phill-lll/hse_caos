@@ -7,6 +7,8 @@
 
 ## Файлики с кодом
 
+[Слайды](caos5.pdf)
+
 1. [Пустой main и код возврата](empty_main.S)
 2. Что происходит со стеком при выхове функций [asm](read_and_add.S)
 3. Запускаем c/c++ код из ассемблера: [c](multiply_add.c), [c++](multiply_add.cpp), [asm](main.S)
