@@ -17,6 +17,9 @@ vk - ссылка на запись вк
 3. [[к](03-dynamic)][[yt](https://youtu.be/5rxnzFkU8Nw)][[vk](https://vkvideo.ru/video-221776054_456239064)] - Динамическая память.
 4. [[к](04-asm-intro)][[yt](https://youtu.be/QPrc9TjYsMM)][[vk](https://vkvideo.ru/video-221776054_456239066)] - Язык ассемблера.
 5. [[к](05-asm-callconv)][[yt](https://youtu.be/aL7iYatoUb8)][[vk](https://vkvideo.ru/video-221776054_456239067)] - Стек и соглашение о вызовах.
+6. [[к](06-floats)][[yt](https://youtu.be/cLm6XVMdTUs)][[vk][TBD]] - Числа с плавающей точкой. IEEE754.
+7. [[к](07-system-files)][[yt](https://youtu.be/EU1T7K7qTII)][[vk](https://vkvideo.ru/video-221776054_456239069)] - Системные вызовы. 
+8. [[к](08-proc)][[yt](https://youtu.be/8YsWZC8YDi0)][[vk](https://vkvideo.ru/video-221776054_456239070?pl=-221776054_2)] - Процессы. Fork.
 
 ## Полезные ссылки
 
