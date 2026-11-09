@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3gKGw0n4l-GTyXvbeKsb">
+    <mxGraphModel dx="1052" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#FF2000, #000000);perimeterSpacing=6;strokeWidth=2;fontSize=24;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="&lt;span&gt;100МБ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#FF2000, #7a7a7a);perimeterSpacing=6;strokeWidth=2;fontSize=24;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="50МБ" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#FF2000, #000000);perimeterSpacing=6;strokeWidth=2;fontSize=24;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="50МБ" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#FF2000, #848484);perimeterSpacing=6;strokeWidth=2;fontSize=24;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="150МБ" vertex="1">
+          <mxGeometry height="120" width="120" x="520" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Bodoni+Moda&quot; face=&quot;Bodoni Moda&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;RAM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-52" edge="1" parent="1" source="4TXuEoCpGQjW4lIwVSr4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#D83D2A,#D83D2A);exitX=0.994;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;" target="4TXuEoCpGQjW4lIwVSr4-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355.24" y="200" />
+            </Array>
+            <mxPoint x="366" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-54" edge="1" parent="1" source="4TXuEoCpGQjW4lIwVSr4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#D83D2A,#D83D2A);" target="4TXuEoCpGQjW4lIwVSr4-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="240.04" />
+              <mxPoint x="440" y="410.04" />
+              <mxPoint x="580" y="410.04" />
+            </Array>
+            <mxPoint x="366" y="223" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#000000,#000000);perimeterSpacing=6;strokeWidth=2;fontSize=16;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="&lt;font&gt;libc&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="520" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#FF2000, #000000);perimeterSpacing=6;strokeWidth=2;fontSize=24;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="Browser" vertex="1">
+          <mxGeometry height="120" width="120" x="230" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#000000,#000000);perimeterSpacing=6;strokeWidth=2;fontSize=16;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="&lt;font&gt;libc&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-62" edge="1" parent="1" source="4TXuEoCpGQjW4lIwVSr4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#D83D2A,#D83D2A);" target="4TXuEoCpGQjW4lIwVSr4-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="347" />
+              <mxPoint x="480" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#FF2000, #000000);perimeterSpacing=6;strokeWidth=2;fontSize=24;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="Bank" vertex="1">
+          <mxGeometry height="120" width="120" x="230" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-61" edge="1" parent="1" source="4TXuEoCpGQjW4lIwVSr4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#D83D2A,#D83D2A);" target="4TXuEoCpGQjW4lIwVSr4-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="420" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4TXuEoCpGQjW4lIwVSr4-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #f9f6f0);strokeColor=light-dark(#AE4132, #d83d2a);fontColor=light-dark(#000000,#000000);perimeterSpacing=6;strokeWidth=2;fontSize=16;fontFamily=Bodoni Moda;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBodoni%2BModa;" value="&lt;font&gt;libc&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
