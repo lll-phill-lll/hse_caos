@@ -1,0 +1,17 @@
+syntax = "proto3";
+package demo;
+
+message ResultRequest {
+    uint32 block_id = 1;
+}
+
+message ResultReply {
+    int32 value = 1;
+    int32 writer_pid = 2;
+}
+
+service Results {
+    rpc GetResult(ResultRequest) returns (ResultReply);
+}
+
+
